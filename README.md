@@ -21,6 +21,7 @@ I'm a **Software Engineering student** at GIKI, currently in my second year and 
 - 🧠 Competitive programming enthusiast, preparing for the next level of ICPC.  
 
 ### 🚀 Projects  
+- 🖥️ **O-Level Pseudocode Compiler**: Translates pseudocode into executable Python code with components like a tokenizer, parser, semantic analyzer, optimizer, and code generator.
 - 🔐 **Password-Protected Lock**: Digital Logic Design project with a lockout feature.  
 - 🛣️ **Optimal Route Finder**: Developing a Python GUI app to display paths on GIKI’s map using DSA concepts.  
 - 🎮 **2D Platformer Game**: Built during my internship at Mindstorm Labs using Unity.  
