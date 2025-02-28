@@ -278,5 +278,3 @@
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love connecting with different people, so if you want to say <b>hi, I'll be happy to meet you!</b></em>
   
-  <!-- Snake animation -->
-<img src="https://github.com/mIBRAHIM707/mIBRAHIM707/blob/output/github-contribution-grid-snake.svg" alt="snake">
